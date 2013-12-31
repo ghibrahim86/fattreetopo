@@ -1,4 +1,0 @@
-fattreetopo
-===========
-
-fat-tree
